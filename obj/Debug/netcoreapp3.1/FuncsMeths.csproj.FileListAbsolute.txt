@@ -1,0 +1,13 @@
+C:\Users\User\Documents\GitHub\FuncsMeths\bin\Debug\netcoreapp3.1\FuncsMeths.exe
+C:\Users\User\Documents\GitHub\FuncsMeths\bin\Debug\netcoreapp3.1\FuncsMeths.deps.json
+C:\Users\User\Documents\GitHub\FuncsMeths\bin\Debug\netcoreapp3.1\FuncsMeths.runtimeconfig.json
+C:\Users\User\Documents\GitHub\FuncsMeths\bin\Debug\netcoreapp3.1\FuncsMeths.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\FuncsMeths\bin\Debug\netcoreapp3.1\FuncsMeths.dll
+C:\Users\User\Documents\GitHub\FuncsMeths\bin\Debug\netcoreapp3.1\FuncsMeths.pdb
+C:\Users\User\Documents\GitHub\FuncsMeths\obj\Debug\netcoreapp3.1\FuncsMeths.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\FuncsMeths\obj\Debug\netcoreapp3.1\FuncsMeths.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\FuncsMeths\obj\Debug\netcoreapp3.1\FuncsMeths.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\FuncsMeths\obj\Debug\netcoreapp3.1\FuncsMeths.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\FuncsMeths\obj\Debug\netcoreapp3.1\FuncsMeths.dll
+C:\Users\User\Documents\GitHub\FuncsMeths\obj\Debug\netcoreapp3.1\FuncsMeths.pdb
+C:\Users\User\Documents\GitHub\FuncsMeths\obj\Debug\netcoreapp3.1\FuncsMeths.genruntimeconfig.cache
